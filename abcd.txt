@@ -1,1 +1,2 @@
 ini isi abcd.txt
+push dari sriputrawiku
